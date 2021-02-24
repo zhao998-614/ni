@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>你爱不爱我？</title>
+	</head>
+	<body>
+		<center>
+			<img src="../img/Unknown.jpg" >
+		</center>
+		<a href="../img/u=1709501496,3990154369&fm=26&gp=0.jpg">
+			<center>
+				不爱
+			</center>
+		</a>
+		
+		<p>
+			<a href="../img/u=3652604406,1218180299&fm=26&gp=0.jpg">
+				<center>
+					爱
+				</center>
+			</a>
+		</p>
+	</body>
+</html>
